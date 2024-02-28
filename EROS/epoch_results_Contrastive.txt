@@ -1,0 +1,42 @@
+random_int: 44068185
+self.max_span_width:  10
+self.tokenLen_emb_dim:  200
+Epoch:  0
+use... training_epoch_end: 
+in train correct_pred, total_pred, total_golden:  tensor(2, device='cuda:0') tensor(3023, device='cuda:0') tensor(6067, device='cuda:0')
+in train span_precision:  tensor(0.0007, device='cuda:0')
+in train span_recall:  tensor(0.0003, device='cuda:0')
+in train span_f1:  tensor(0.0004, device='cuda:0')
+train: 0.000440, 0.000330, 0.000662, 2, 3023, 6067
+
+{'val_loss': tensor(0.1914, device='cuda:0', grad_fn=<MeanBackward0>), 'log': {'train_loss': tensor(0.1914, device='cuda:0', grad_fn=<MeanBackward0>), 'span_precision': tensor(0.0007, device='cuda:0'), 'span_recall': tensor(0.0003, device='cuda:0'), 'span_f1': tensor(0.0004, device='cuda:0')}}
+Validation Loop starting!
+Validation Loss: 0.10071404278278351
+use... validation_epoch_end: 
+correct_pred, total_pred, total_golden:  tensor(0, device='cuda:0') tensor(0, device='cuda:0') tensor(1191, device='cuda:0')
+span_precision:  tensor(0., device='cuda:0')
+span_recall:  tensor(0., device='cuda:0')
+span_f1:  tensor(0., device='cuda:0')
+dev: 0.000000, 0.000000, 0.000000, 0, 0, 1191
+
+Validation: {'val_loss': tensor(0.1007, device='cuda:0'), 'log': {'val_loss': tensor(0.1007, device='cuda:0'), 'span_precision': tensor(0., device='cuda:0'), 'span_recall': tensor(0., device='cuda:0'), 'span_f1': tensor(0., device='cuda:0')}}
+Epoch:  1
+use... training_epoch_end: 
+in train correct_pred, total_pred, total_golden:  tensor(220, device='cuda:0') tensor(276, device='cuda:0') tensor(6067, device='cuda:0')
+in train span_precision:  tensor(0.7971, device='cuda:0')
+in train span_recall:  tensor(0.0363, device='cuda:0')
+in train span_f1:  tensor(0.0694, device='cuda:0')
+train: 0.069368, 0.036262, 0.797101, 220, 276, 6067
+
+{'val_loss': tensor(0.0756, device='cuda:0', grad_fn=<MeanBackward0>), 'log': {'train_loss': tensor(0.0756, device='cuda:0', grad_fn=<MeanBackward0>), 'span_precision': tensor(0.7971, device='cuda:0'), 'span_recall': tensor(0.0363, device='cuda:0'), 'span_f1': tensor(0.0694, device='cuda:0')}}
+Validation Loop starting!
+Validation Loss: 0.05705135315656662
+use... validation_epoch_end: 
+correct_pred, total_pred, total_golden:  tensor(270, device='cuda:0') tensor(464, device='cuda:0') tensor(1191, device='cuda:0')
+span_precision:  tensor(0.5819, device='cuda:0')
+span_recall:  tensor(0.2267, device='cuda:0')
+span_f1:  tensor(0.3263, device='cuda:0')
+dev: 0.326284, 0.226700, 0.581897, 270, 464, 1191
+
+the file path of probs:  train_logs/fepd/spanner_bert-large-uncased_spMLen_usePruneFalse_useSpLenTrue_useSpMorphFalse_SpWtFalse_value0.5_44068185/spanner_bert-large-uncased_spMLen_usePruneFalse_useSpLenTrue_useSpMorphFalse_SpWtFalse_value0.5_prob_dev.pkl
+the file path of model:  train_logs/fepd/spanner_bert-large-uncased_spMLen_usePruneFalse_useSpLenTrue_useSpMorphFalse_SpWtFalse_value0.5_44068185/spanner_bert-large-uncased_spMLen_usePruneFalse_useSpLenTrue_useSpMorphFalse_SpWtFalse_value0.5best_model_dev.pth

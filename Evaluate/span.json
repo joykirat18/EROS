@@ -1,0 +1,2626 @@
+[
+    {
+        "context": "We collect contact information ( like their name , company name , email and postal address ) , and unique identifiers ( like their user name ) .",
+        "span_posLabel": {
+            "0;0": "target_direct",
+            "2;3": "data",
+            "7;7": "data_compulsory",
+            "9;10": "data_compulsory",
+            "12;12": "data_compulsory",
+            "14;15": "data_compulsory",
+            "19;20": "data_compulsory",
+            "24;25": "data_compulsory"
+        }
+    },
+    {
+        "context": "The Site \u2019 s web and ad servers log information about a user \u2019 s IP address , browser type and the current URL the user is requesting .",
+        "span_posLabel": {
+            "0;7": "target_direct",
+            "12;16": "data_compulsory",
+            "18;19": "data_compulsory",
+            "22;27": "data_compulsory"
+        }
+    },
+    {
+        "context": "This information is always provided by a user \u2019 s browser and automatically logged by most websites .",
+        "span_posLabel": {
+            "1;1": "data",
+            "7;10": "source_direct"
+        }
+    },
+    {
+        "context": "You can invite your friends to join the Site by providing their contact information , or by entering your log-in credentials to import your address book from other sites .",
+        "span_posLabel": {
+            "0;0": "source_direct",
+            "3;4": "source_indirect",
+            "12;13": "data_optional",
+            "22;28": "medium"
+        }
+    },
+    {
+        "context": "We may store and use your friends ' contact information to invite them to join and connect with you on the Site .",
+        "span_posLabel": {
+            "0;0": "target_direct",
+            "5;7": "source_indirect",
+            "8;9": "data_optional",
+            "11;21": "reason"
+        }
+    },
+    {
+        "context": "Anonymous click stream , number of page views , calculated web beacons , and aggregated demographic information may also be shared with User-Friendly \u2019 s advertisers and business partners .",
+        "span_posLabel": {
+            "0;2": "data_compulsory",
+            "4;7": "data_compulsory",
+            "9;11": "data_compulsory",
+            "14;16": "data_compulsory",
+            "22;25": "target_in_direct",
+            "27;28": "target_in_direct"
+        }
+    },
+    {
+        "context": "We use the information you provide about yourself when placing an order or service request only to complete that order or service request .",
+        "span_posLabel": {
+            "0;0": "target_direct",
+            "3;3": "data",
+            "4;4": "source_direct",
+            "8;14": "medium",
+            "16;22": "reason"
+        }
+    },
+    {
+        "context": "We use traffic log cookies to identify which pages are being used .",
+        "span_posLabel": {
+            "0;0": "target_direct",
+            "2;4": "medium",
+            "6;11": "reason"
+        }
+    },
+    {
+        "context": "This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs .",
+        "span_posLabel": {
+            "3;8": "reason",
+            "10;20": "reason"
+        }
+    },
+    {
+        "context": "We may use advertising service vendors to help present advertisements on the website , one of which is http : //www.gourmetads.com .",
+        "span_posLabel": {
+            "18;20": "target_in_direct"
+        }
+    },
+    {
+        "context": "These vendors may use cookies , web beacons , or similar technologies to serve you advertisements tailored to interests you have shown by browsing on this and other sites you have visited , to determine whether you have seen a particular advertisement before and to avoid sending you duplicate advertisements .",
+        "span_posLabel": {
+            "4;4": "medium",
+            "6;7": "medium",
+            "10;11": "medium",
+            "13;21": "reason",
+            "34;42": "reason",
+            "45;49": "reason"
+        }
+    },
+    {
+        "context": "In doing so , these vendors may collect non-personal data such as your browser type , your operating system , Web pages visited , time of visits , content viewed , ads viewed , and other clickstream data .",
+        "span_posLabel": {
+            "5;5": "target_in_direct",
+            "12;12": "source_direct",
+            "13;14": "data_compulsory",
+            "17;18": "data_compulsory",
+            "20;22": "data_compulsory",
+            "24;26": "data_compulsory",
+            "28;29": "data_compulsory",
+            "31;32": "data_compulsory",
+            "35;37": "data_compulsory"
+        }
+    },
+    {
+        "context": "We use third-party advertising companies to serve ads when you visit our Web site .",
+        "span_posLabel": {
+            "0;0": "target_direct",
+            "2;4": "target_in_direct",
+            "6;13": "reason"
+        }
+    },
+    {
+        "context": "These companies may use non-personal information ( I.e. , information that does not including your name , address email address or telephone number ) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you .",
+        "span_posLabel": {
+            "1;1": "target_in_direct",
+            "4;5": "data",
+            "36;45": "reason"
+        }
+    },
+    {
+        "context": "To improve your ad experience on The Augusta Chronicle sites and elsewhere on the Internet , we may send non-personal information to Google based on your browser 's activities , such as type of pages viewed and categories of interests , so that the advertising you see is relevant to you .",
+        "span_posLabel": {
+            "1;9": "reason",
+            "16;16": "target_direct",
+            "19;20": "data",
+            "22;22": "target_in_direct",
+            "26;28": "data_compulsory",
+            "32;35": "data_compulsory",
+            "37;39": "data_compulsory",
+            "44;50": "reason"
+        }
+    },
+    {
+        "context": "Google also may use non-personal information regarding its own users to select which ads to display .",
+        "span_posLabel": {
+            "0;0": "target_in_direct",
+            "4;5": "data",
+            "11;15": "reason"
+        }
+    },
+    {
+        "context": "Some cookies are used to improve your user experience by making login to our Web site easier , such as by remembering usernames and passwords .",
+        "span_posLabel": {
+            "1;1": "data",
+            "5;16": "reason",
+            "21;24": "reason"
+        }
+    },
+    {
+        "context": "Cookies can also enable us to monitor users ' movements through our Web site so that we may target user interests to enhance their experience at our Web site .",
+        "span_posLabel": {
+            "0;0": "data",
+            "6;13": "medium"
+        }
+    },
+    {
+        "context": "We may also collect click stream data such as the full Uniform Resource Locators ( URL ) and assign unique identifiers to our users for the purpose of tracking user behaviors .",
+        "span_posLabel": {
+            "0;0": "target_direct",
+            "4;6": "data_compulsory",
+            "10;16": "data_compulsory"
+        }
+    },
+    {
+        "context": "We may monitor your use of this service ( such as your session time and clickstream data ) , and use or disclose any such information gathered as part of our evaluation and operation of the Site and the services we make available .",
+        "span_posLabel": {
+            "0;0": "target_direct",
+            "12;13": "data_compulsory",
+            "15;16": "data_compulsory",
+            "25;25": "data",
+            "31;31": "reason",
+            "33;36": "reason",
+            "39;39": "reason"
+        }
+    },
+    {
+        "context": "Iron.io uses commonly-used information-gathering tools , such as cookies and Web beacons , to collect information as you navigate the Company \u2019 s Web site ( \u201c Web Site Navigational Information \u201d ) .",
+        "span_posLabel": {
+            "0;0": "target_direct",
+            "8;8": "data",
+            "10;11": "data",
+            "15;15": "data",
+            "18;24": "medium",
+            "27;30": "data"
+        }
+    },
+    {
+        "context": "If you choose to post messages on our message boards , chat rooms or other message areas or leave feedback , We will collect that information You provide to us .",
+        "span_posLabel": {
+            "1;1": "source_direct",
+            "5;9": "data_optional",
+            "11;12": "data_optional",
+            "18;19": "data_optional",
+            "23;25": "medium",
+            "26;26": "source_direct"
+        }
+    },
+    {
+        "context": "We retain this information as necessary to resolve disputes , provide customer support and troubleshoot problems as permitted by law .",
+        "span_posLabel": {
+            "7;8": "reason",
+            "10;12": "reason",
+            "14;19": "reason"
+        }
+    },
+    {
+        "context": "* Cookies - a cookie is a small file stored on a user 's computer that contains information about the user .",
+        "span_posLabel": {
+            "1;1": "medium",
+            "20;20": "source_direct"
+        }
+    },
+    {
+        "context": "We may use either session ID cookies ( which terminate once a browser is closed ) or persistent cookies ( which are small text files stored on a user 's hard drive for an extended period of time ) .",
+        "span_posLabel": {
+            "4;6": "medium",
+            "17;18": "medium"
+        }
+    },
+    {
+        "context": "Cookies allow Us to see how and when You use our sites , but they can not be used to track personal information such as email address or phone number .",
+        "span_posLabel": {
+            "5;11": "data_optional"
+        }
+    },
+    {
+        "context": "Cookies also allow Us to store the personal preferences that You set during each visit to our sites which can speed up Your future visits .",
+        "span_posLabel": {
+            "5;11": "data_optional"
+        }
+    },
+    {
+        "context": "Agents : We engage other companies and individuals to perform functions on our behalf .",
+        "span_posLabel": {
+            "2;2": "target_direct",
+            "5;5": "target_in_direct",
+            "7;7": "target_in_direct",
+            "9;13": "reason"
+        }
+    },
+    {
+        "context": "Examples include processing credit card payments , providing marketing assistance , providing customer services , sending postal mail and email to you , removing repetitive information from customer lists , and analyzing data .",
+        "span_posLabel": {
+            "3;5": "reason",
+            "7;9": "reason",
+            "11;13": "reason",
+            "15;21": "reason",
+            "23;28": "reason",
+            "31;32": "reason"
+        }
+    },
+    {
+        "context": "These persons have access to user information needed to perform their functions for the benefit of the user .",
+        "span_posLabel": {
+            "0;1": "target_in_direct",
+            "5;6": "data",
+            "9;17": "reason"
+        }
+    },
+    {
+        "context": "For example , we may use cookies to determine where to route your traffic to effectively distribute the workload across numerous computers .",
+        "span_posLabel": {
+            "3;3": "target_direct",
+            "6;6": "medium",
+            "8;21": "reason"
+        }
+    },
+    {
+        "context": "We may also provide aggregate usage information to our partners , who may use such information to understand how often and in what ways people use our Services , so that they , too , can provide you with an optimal online experience .",
+        "span_posLabel": {
+            "0;0": "target_direct",
+            "4;6": "data",
+            "8;9": "target_in_direct",
+            "17;27": "reason"
+        }
+    },
+    {
+        "context": "Some of our advertising partners may use cookies and web beacons on our site .",
+        "span_posLabel": {
+            "3;4": "target_in_direct",
+            "7;7": "medium",
+            "9;10": "medium"
+        }
+    },
+    {
+        "context": "Our advertising partners include Google Adsense , Outbrain and Goody Books Pte .",
+        "span_posLabel": {
+            "4;5": "target_in_direct",
+            "7;7": "target_in_direct"
+        }
+    },
+    {
+        "context": "We also use the services of reputable third parties to provide us with data collection , reporting and ad response measurement , as well as to assist with delivery of relevant marketing messages and advertisements .",
+        "span_posLabel": {
+            "0;0": "target_direct",
+            "7;8": "source_indirect",
+            "13;14": "data",
+            "16;20": "data",
+            "26;32": "reason",
+            "34;34": "reason"
+        }
+    },
+    {
+        "context": "We , our third party service providers , advertisers and/or partners may also place web beacons for these third parties .",
+        "span_posLabel": {
+            "0;0": "target_direct",
+            "3;6": "target_in_direct",
+            "8;8": "target_in_direct",
+            "10;10": "target_in_direct",
+            "14;15": "medium"
+        }
+    },
+    {
+        "context": "Any of the information we collect from you may be used in one of the following ways : To personalize your experience , ( your information helps us to better respond to your individual needs )",
+        "span_posLabel": {
+            "3;3": "data",
+            "4;4": "target_direct",
+            "7;7": "source_direct",
+            "19;21": "reason",
+            "24;24": "source_direct",
+            "25;25": "data",
+            "27;27": "target_direct",
+            "30;34": "reason"
+        }
+    },
+    {
+        "context": "We use third-party advertising companies to serve ads when you visit our Web site .",
+        "span_posLabel": {
+            "0;0": "target_direct",
+            "2;4": "target_in_direct",
+            "6;13": "reason"
+        }
+    },
+    {
+        "context": "These companies may use aggregated information ( not including your name , address , email address or telephone number ) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you .",
+        "span_posLabel": {
+            "1;1": "target_in_direct",
+            "5;5": "data",
+            "10;10": "data",
+            "12;12": "data",
+            "14;15": "data",
+            "17;18": "data",
+            "20;28": "data",
+            "32;35": "reason",
+            "37;41": "reason"
+        }
+    },
+    {
+        "context": "If you would like more information about this practice and to know your choices about not having this information used by these companies , click here .",
+        "span_posLabel": {
+            "1;1": "source_direct"
+        }
+    },
+    {
+        "context": "Personally identifiable information about our visitors is collected only when knowingly and voluntarily submitted by those visitors .",
+        "span_posLabel": {
+            "0;2": "data_optional",
+            "5;5": "source_direct"
+        }
+    },
+    {
+        "context": "* * Information You Voluntarily Submit to the Website * * : We may collect personal information from you such as your name or email address .",
+        "span_posLabel": {
+            "12;12": "target_direct",
+            "18;18": "source_direct",
+            "22;22": "data_compulsory",
+            "24;25": "data_compulsory"
+        }
+    },
+    {
+        "context": "For example , you may voluntarily submit information to the Website by leaving a comment , subscribing to a newsletter , or submitting a contact form .",
+        "span_posLabel": {
+            "12;14": "medium",
+            "16;19": "medium",
+            "22;25": "medium"
+        }
+    },
+    {
+        "context": "We will store the username , but your password will not be visible in our records .",
+        "span_posLabel": {
+            "4;4": "data_compulsory"
+        }
+    },
+    {
+        "context": "The information that is collected automatically is used to improve plattsburgh.edu \u2019 s content and to help SUNY Plattsburgh understand how users are interacting with its website .",
+        "span_posLabel": {
+            "1;5": "data",
+            "9;13": "reason",
+            "16;26": "reason"
+        }
+    },
+    {
+        "context": "This information is collected for statistical analysis and to determine what information is of most and least interest to our users .",
+        "span_posLabel": {
+            "1;1": "data",
+            "5;6": "reason",
+            "9;20": "reason"
+        }
+    },
+    {
+        "context": "Google Analytics and AdWords use \u201c cookies \u201d , which are text files placed on your computer , to help the website analyze how users use the site .",
+        "span_posLabel": {
+            "0;1": "target_in_direct",
+            "3;3": "target_in_direct",
+            "6;6": "medium",
+            "22;27": "reason"
+        }
+    },
+    {
+        "context": "When you visit our Site , our Web server sends a cookie to your computer .",
+        "span_posLabel": {
+            "1;1": "source_direct",
+            "2;4": "medium",
+            "11;11": "medium"
+        }
+    },
+    {
+        "context": "Our Site uses cookies to keep track of a user 's session .",
+        "span_posLabel": {
+            "0;1": "target_direct",
+            "3;3": "medium",
+            "5;11": "reason"
+        }
+    },
+    {
+        "context": "When you register at trainchinese , we collect personal details about you to create an account .",
+        "span_posLabel": {
+            "1;1": "source_direct",
+            "2;4": "medium",
+            "6;6": "target_direct",
+            "8;9": "data_compulsory",
+            "11;11": "source_direct",
+            "13;15": "reason"
+        }
+    },
+    {
+        "context": "We use the information you provide about someone else when placing an order only to ship the product and to confirm delivery .",
+        "span_posLabel": {
+            "0;0": "target_direct",
+            "3;3": "data",
+            "4;4": "source_direct",
+            "7;8": "source_indirect",
+            "9;12": "medium",
+            "15;21": "reason"
+        }
+    },
+    {
+        "context": "This privacy notice aims to give you information on how Coast Digital collects and processes your personal data through all means such as when you request a quote/proposal from Coast Digital ; become a client of Coast Digital or use of this website , including any data you may provide through this website when you sign up to our newsletter ; download a guide or take part in a promotion .",
+        "span_posLabel": {
+            "23;30": "medium",
+            "32;37": "medium",
+            "39;42": "medium",
+            "53;59": "medium",
+            "61;63": "medium",
+            "65;69": "medium"
+        }
+    },
+    {
+        "context": "Personally Identifiable Information about Authorized Customers may be shared with other Authorized Customers who wish to evaluate potential transactions with other Authorized Customers .",
+        "span_posLabel": {
+            "0;2": "data",
+            "4;5": "source_direct",
+            "11;12": "target_in_direct",
+            "16;22": "reason"
+        }
+    },
+    {
+        "context": "We may share aggregated information about our Visitors , including the demographics of our Visitors and Authorized Customers , with our affiliated agencies and third party vendors .",
+        "span_posLabel": {
+            "0;0": "target_direct",
+            "3;4": "data",
+            "7;7": "source_direct",
+            "11;17": "data",
+            "21;22": "target_in_direct",
+            "24;26": "target_in_direct"
+        }
+    },
+    {
+        "context": "We might use the information you provide to share information about services or products you have requested or to inform you of promotional offers that might be of interest .",
+        "span_posLabel": {
+            "0;0": "target_direct",
+            "4;4": "data",
+            "5;5": "source_direct",
+            "8;13": "reason",
+            "19;28": "reason"
+        }
+    },
+    {
+        "context": "We disclose information , to companies and individuals we employ to perform services on our behalf , to companies that may use your data and contact you for career-related purposes , if legally required to do so , to protect the rights or property of the Nexxt Network or our affiliated companies , or to protect the personal safety of users or the general public .",
+        "span_posLabel": {
+            "0;0": "target_direct",
+            "2;2": "data",
+            "5;5": "target_in_direct",
+            "7;9": "target_in_direct",
+            "11;15": "reason",
+            "18;18": "target_in_direct",
+            "23;23": "data",
+            "26;26": "source_direct",
+            "28;29": "reason",
+            "32;33": "reason",
+            "39;51": "reason",
+            "55;64": "reason"
+        }
+    },
+    {
+        "context": "Daily Liked also collects potentially personally-identifying information like Internet Protocol ( IP ) addresses .",
+        "span_posLabel": {
+            "4;6": "data",
+            "8;13": "data_compulsory"
+        }
+    },
+    {
+        "context": "When registering for the Services , each Registered User will be asked to provide a first and last name , email address and to create , or be provided with , a unique password that , along with a provided email address , enables access to certain parts of the Service , such as payment .",
+        "span_posLabel": {
+            "1;4": "medium",
+            "7;8": "source_direct",
+            "15;15": "data_compulsory",
+            "17;18": "data_compulsory",
+            "20;21": "data_compulsory",
+            "32;33": "data_compulsory",
+            "43;54": "reason"
+        }
+    },
+    {
+        "context": "Our website makes use of various technologies to collect information about types and versions of internet browsers used when accessing our web site .",
+        "span_posLabel": {
+            "9;16": "data_compulsory",
+            "19;22": "medium"
+        }
+    },
+    {
+        "context": "We need your Basic Personal Data to support our Legitimate Interests in enabling you to learn , complete courses , and receive certificates of completion .",
+        "span_posLabel": {
+            "0;0": "target_direct",
+            "2;2": "source_direct",
+            "3;5": "data",
+            "7;24": "reason"
+        }
+    },
+    {
+        "context": "This allows you to access applications and services , and to manage your Account settings and preferences .",
+        "span_posLabel": {
+            "1;7": "reason",
+            "11;16": "reason"
+        }
+    },
+    {
+        "context": "It also lets us record your access to comply with security and audit requirements , and to utilize automatically generated , unique identifiers which assure your correct profile data is available to applications or services .",
+        "span_posLabel": {
+            "4;13": "reason"
+        }
+    },
+    {
+        "context": "We and our partners use cookies to collect information about your use of the Services .",
+        "span_posLabel": {
+            "0;0": "target_direct",
+            "2;3": "target_in_direct",
+            "5;5": "medium",
+            "8;8": "data"
+        }
+    },
+    {
+        "context": "In addition to cookies , we and our partners use other tracking technologies that collect information about your use of the Services , including mobile identifiers and `` web beacons '' which are small graphic files ( sometimes called \u201c clear GIFs \u201d or \u201c web pixels \u201d ) embedded in a web page or email typically used to monitor activity and send relevant information back to a home server ( which can belong to the host site , a network advertiser or some other third party ) .",
+        "span_posLabel": {
+            "5;5": "target_direct",
+            "7;8": "target_in_direct",
+            "11;12": "medium",
+            "15;15": "data",
+            "24;25": "data_compulsory",
+            "28;29": "data_compulsory"
+        }
+    },
+    {
+        "context": "The information collected by such tracking technologies may be combined with other information that our partners have access to , including your name , email address and physical address , so that we can send you materials , either electronically or by direct mail , that may be of interest to you .",
+        "span_posLabel": {
+            "1;1": "data",
+            "22;22": "data",
+            "24;25": "data",
+            "27;28": "data",
+            "34;36": "reason"
+        }
+    },
+    {
+        "context": "We collect Basic Personal Data from you , and we are the \u201c Controller \u201d of this data .",
+        "span_posLabel": {
+            "0;0": "target_direct",
+            "6;6": "source_direct"
+        }
+    },
+    {
+        "context": "This includes your user ID , name , email address , country , preferred language , and related information you may provide ( for example , your company name ) .",
+        "span_posLabel": {
+            "3;4": "data_compulsory",
+            "6;6": "data_compulsory",
+            "8;9": "data_compulsory",
+            "11;11": "data_compulsory",
+            "13;14": "data_compulsory",
+            "27;28": "data_compulsory"
+        }
+    },
+    {
+        "context": "We also collect information about your network connection ( s ) to us , such as your IP Address .",
+        "span_posLabel": {
+            "17;18": "data_compulsory"
+        }
+    },
+    {
+        "context": "We also use your data to detect potential breaches to the rules of our site .",
+        "span_posLabel": {
+            "0;0": "target_direct",
+            "3;3": "source_direct",
+            "4;4": "data",
+            "6;8": "reason"
+        }
+    },
+    {
+        "context": "Third-parties are contracted for specific services such as credit card processing and list generation .",
+        "span_posLabel": {
+            "0;0": "target_in_direct",
+            "4;5": "reason",
+            "8;10": "reason",
+            "12;13": "reason"
+        }
+    },
+    {
+        "context": "Any information that is required to perform these services is provided to the service provider .",
+        "span_posLabel": {
+            "1;1": "data",
+            "4;8": "reason",
+            "13;14": "target_in_direct"
+        }
+    },
+    {
+        "context": "Specifically , we may collect your geo-location if you allow us to do so .",
+        "span_posLabel": {
+            "2;2": "target_direct",
+            "5;5": "source_direct",
+            "6;6": "data_optional"
+        }
+    },
+    {
+        "context": "We may also collect information about your location through web beacons and other tracking technologies .",
+        "span_posLabel": {
+            "0;0": "target_direct",
+            "6;6": "source_direct",
+            "7;7": "data",
+            "9;10": "medium",
+            "12;14": "medium"
+        }
+    },
+    {
+        "context": "We use this information and share it with our third party marketing partners ( as described below ) in order to deliver relevant content to you , including ads , based on your location .",
+        "span_posLabel": {
+            "0;0": "target_direct",
+            "9;12": "target_in_direct",
+            "21;28": "reason"
+        }
+    },
+    {
+        "context": "McGraw-Hill Education shares your information with third parties to provide you with marketing from us , however we will not share your PII with third parties for them to market to you on their own behalf .",
+        "span_posLabel": {
+            "0;1": "target_direct",
+            "3;3": "source_direct",
+            "4;4": "data",
+            "6;7": "target_in_direct",
+            "9;14": "reason"
+        }
+    },
+    {
+        "context": "In the event of any requirement by court order , government or quasi-government agency to disclose Your Personal Information , We will disclose information as may be legally required .",
+        "span_posLabel": {
+            "5;8": "reason",
+            "10;13": "target_in_direct",
+            "17;18": "data"
+        }
+    },
+    {
+        "context": "We may also disclose Your Personal Information if we , in the good faith believe that such disclosure is reasonably necessary to respond to subpoenas , court orders , or other legal process .",
+        "span_posLabel": {
+            "5;6": "data",
+            "17;24": "reason",
+            "26;27": "reason",
+            "30;32": "reason"
+        }
+    },
+    {
+        "context": "We may automatically collect non-personal information about you such as the type of internet browsers you use or the website though which you accessed our web site .",
+        "span_posLabel": {
+            "0;0": "target_direct",
+            "4;5": "data",
+            "7;7": "source_direct",
+            "11;16": "data_compulsory",
+            "19;26": "data_compulsory"
+        }
+    },
+    {
+        "context": "We do this through the use of 'cookies ' which are files that your web browser places on your computer 's hard drive .",
+        "span_posLabel": {
+            "0;0": "target_direct",
+            "7;7": "medium"
+        }
+    },
+    {
+        "context": "_Network and Internet Information._ Our server may automatically collect data about your server \u2019 s internet address when you visit us .",
+        "span_posLabel": {
+            "4;5": "target_direct",
+            "11;14": "source_direct",
+            "15;16": "data_compulsory",
+            "17;20": "medium"
+        }
+    },
+    {
+        "context": "We may also collect the referring page that linked you to us or the next site you visit ; how you use or interact with our Web Site ; technical information and specifications about your browser , device , software and settings ; any search terms you have entered on our Web Site or a referral site ; and other web usage activity and data logged by our web servers .",
+        "span_posLabel": {
+            "0;0": "target_direct",
+            "5;17": "data_compulsory",
+            "19;27": "data_compulsory",
+            "29;41": "data_compulsory",
+            "43;56": "data_compulsory",
+            "59;69": "data_compulsory"
+        }
+    },
+    {
+        "context": "When you register with our website and/or sign up for a free trial of our products , you provide your name , address , email address and telephone number , and details relevant to your occupation or employer .",
+        "span_posLabel": {
+            "1;1": "source_direct",
+            "2;5": "medium",
+            "7;15": "medium",
+            "17;17": "source_direct",
+            "20;20": "data_compulsory",
+            "22;22": "data_compulsory",
+            "24;25": "data_compulsory",
+            "27;28": "data_compulsory",
+            "31;37": "data_compulsory"
+        }
+    },
+    {
+        "context": "Other technologies ( such as cookies , JavaScript , or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see .",
+        "span_posLabel": {
+            "5;5": "medium",
+            "7;7": "medium",
+            "10;11": "medium",
+            "19;21": "target_in_direct",
+            "23;28": "reason",
+            "33;39": "reason"
+        }
+    },
+    {
+        "context": "Daily Liked uses cookies to help Daily Liked identify and track visitors , their usage of Daily Liked websites , and their website access preferences .",
+        "span_posLabel": {
+            "0;1": "target_direct",
+            "3;3": "medium",
+            "8;11": "reason",
+            "14;18": "reason",
+            "22;24": "reason"
+        }
+    },
+    {
+        "context": "If you post content for public view on the Site , we may distribute such Public Content to a wider audience by sharing it ( or portions of it ) with third parties so that they can publish it on their own websites and media platforms .",
+        "span_posLabel": {
+            "1;1": "source_direct",
+            "2;9": "medium",
+            "11;11": "target_direct",
+            "15;16": "data_optional",
+            "22;45": "reason"
+        }
+    },
+    {
+        "context": "We may ask them to credit you as the source of these contributions by including your account name and profile photo .",
+        "span_posLabel": {
+            "0;0": "target_direct",
+            "3;3": "target_in_direct",
+            "6;6": "source_direct",
+            "11;12": "data",
+            "15;15": "source_direct",
+            "16;17": "data_compulsory",
+            "19;20": "data_compulsory"
+        }
+    },
+    {
+        "context": "Visitors must provide certain PII to Sponsor in order to make purchases on the Website .",
+        "span_posLabel": {
+            "0;0": "source_direct",
+            "4;4": "data",
+            "6;6": "target_direct",
+            "10;14": "reason"
+        }
+    },
+    {
+        "context": "Such PII includes basic shipping and billing information , such as your name , address , phone number and credit card number .",
+        "span_posLabel": {
+            "1;1": "data",
+            "3;7": "data_compulsory",
+            "12;12": "data_compulsory",
+            "14;14": "data_compulsory",
+            "16;17": "data_compulsory",
+            "19;21": "data_compulsory"
+        }
+    },
+    {
+        "context": "These IP address are collected for administration of the system , reporting aggregate information , and auditing Site visits .",
+        "span_posLabel": {
+            "1;2": "data_compulsory",
+            "6;9": "reason",
+            "11;13": "reason",
+            "16;18": "reason"
+        }
+    },
+    {
+        "context": "The email address you provide for order processing , will only be used to send you information and updates pertaining to your order .",
+        "span_posLabel": {
+            "1;2": "data_compulsory",
+            "3;3": "source_direct",
+            "13;22": "reason"
+        }
+    },
+    {
+        "context": "Information obtained from third parties - We may obtain information about you from third parties to verify the information you provide .",
+        "span_posLabel": {
+            "6;6": "target_direct",
+            "9;9": "data",
+            "13;14": "source_direct",
+            "16;20": "reason"
+        }
+    },
+    {
+        "context": "80 's Purple works with [ AdRoll retargeting ] ( http : //www.adroll.com/ ) , who uses technology including web beacons and cookies to collect data about our website usage and to improve the effectiveness of our marketing .",
+        "span_posLabel": {
+            "0;2": "target_direct",
+            "6;7": "target_in_direct",
+            "19;20": "medium",
+            "22;22": "medium",
+            "28;29": "data",
+            "32;37": "reason"
+        }
+    },
+    {
+        "context": "If by chance another company obtains the assets in the business of DriveTuner , we reserve inclusion of the stored personal identification information along with the assets transferred to the new corporate owners .",
+        "span_posLabel": {
+            "3;4": "target_in_direct",
+            "12;12": "target_direct",
+            "19;22": "data",
+            "30;32": "target_in_direct"
+        }
+    },
+    {
+        "context": "We may disclose personally identifiable information to third parties whose practices are not covered by this privacy statement ( e.g. , other marketers , magazine publishers , retailers , participatory databases , and non-profit organisations ) that want to market products or services to you .",
+        "span_posLabel": {
+            "0;0": "target_direct",
+            "3;5": "data",
+            "7;8": "target_in_direct",
+            "39;40": "reason",
+            "42;44": "reason"
+        }
+    },
+    {
+        "context": "The information we collect is used for internal review and is then discarded , used to improve the content of our Web page , used to customize the content and/or layout of our page for each individual visitor , used to notify consumers about updates to our Web site , used by us to contact consumers for marketing purposes , disclosed when legally required to do so , at the request of governmental authorities conducting an investigation , to verify or enforce compliance with the policies governing our Website and applicable laws or to protect against misuse or unauthorized use of our Website .",
+        "span_posLabel": {
+            "1;1": "data",
+            "2;2": "target_direct",
+            "7;8": "reason",
+            "16;22": "reason",
+            "26;37": "reason",
+            "41;48": "reason",
+            "54;58": "reason",
+            "79;91": "reason",
+            "94;102": "reason"
+        }
+    },
+    {
+        "context": "By using Our Products and services , you consent to and grant authorization to our collection and processing your information , including the device and software user information , personal information and content information uploaded by user ( mainly the image information you uploaded ; regarding the uploaded content , you warrant that you have the intellectual property involved therein or have obtained the relevant license and there is no infringement of third party \u2019 s right ) .",
+        "span_posLabel": {
+            "1;5": "medium",
+            "7;7": "source_direct",
+            "23;27": "data_compulsory",
+            "29;30": "data_compulsory",
+            "32;34": "data_compulsory"
+        }
+    },
+    {
+        "context": "The information is only used for the optimization of software interface interaction .",
+        "span_posLabel": {
+            "7;11": "reason"
+        }
+    },
+    {
+        "context": "For instance , in order to open an account , submit or receive submissions , your name and email address will be required .",
+        "span_posLabel": {
+            "6;8": "reason",
+            "10;13": "reason",
+            "16;16": "data_compulsory",
+            "18;19": "data_compulsory"
+        }
+    },
+    {
+        "context": "We use the information we automatically collect to help us better plan our Website to meet your Internet needs .",
+        "span_posLabel": {
+            "0;0": "target_direct",
+            "3;3": "data",
+            "5;6": "medium",
+            "10;13": "reason",
+            "15;18": "reason"
+        }
+    },
+    {
+        "context": "Information you provide to us is used for marketing purposes , and may result in follow-up communications .",
+        "span_posLabel": {
+            "8;9": "reason"
+        }
+    },
+    {
+        "context": "The Degree Search may share personally identifiable information with third party businesses for the purpose of direct marketing , specifically email marketing .",
+        "span_posLabel": {
+            "0;2": "target_direct",
+            "5;7": "data",
+            "9;11": "target_in_direct",
+            "16;17": "reason"
+        }
+    },
+    {
+        "context": "WSL may also collect certain other information automatically when you visit a WSL Digital Site including : Your Internet Protocol ( IP ) address which can sometimes also be used to get your general geographic area ; Other unique identifiers such as mobile device identification numbers , domain name of your internet or wireless service provider and type of device used to access a WSL Digital Site ; Browser type and settings and operating system used ; Webpages you visit within the WSL Digital Sites or sites you visited before or after you visit the WSL Digital Sites ; Information collected through cookies , web beacons , pixels , Local Shared Objects and other technologies ; and Standard server log information .",
+        "span_posLabel": {
+            "0;0": "target_direct",
+            "6;6": "data",
+            "9;9": "source_direct",
+            "18;23": "data_compulsory",
+            "31;35": "reason",
+            "42;45": "data_compulsory",
+            "47;51": "data_compulsory",
+            "53;55": "data_compulsory",
+            "57;66": "data_compulsory",
+            "68;69": "data_compulsory",
+            "71;71": "data_compulsory",
+            "73;75": "data_compulsory",
+            "77;97": "data_compulsory",
+            "99;101": "data_compulsory",
+            "102;103": "medium",
+            "104;106": "medium",
+            "107;108": "medium",
+            "109;114": "medium",
+            "117;120": "data_compulsory"
+        }
+    },
+    {
+        "context": "WebMD may combine your personal information and other information collected about your use of the Services , and also supplement with information from external sources for the purposes described in this Privacy Policy .",
+        "span_posLabel": {
+            "0;0": "target_direct",
+            "3;3": "source_direct",
+            "4;5": "data",
+            "8;8": "data",
+            "11;11": "source_direct",
+            "21;21": "data",
+            "23;24": "medium"
+        }
+    },
+    {
+        "context": "For example , information that WebMD collects about you may be combined by WebMD with other information available to WebMD through third parties for research and measurement purposes , including measuring the effectiveness of content , advertising or programs .",
+        "span_posLabel": {
+            "3;3": "data",
+            "5;5": "target_direct",
+            "8;8": "source_direct",
+            "13;13": "target_direct",
+            "16;16": "data",
+            "21;22": "target_in_direct",
+            "24;27": "reason",
+            "30;34": "reason",
+            "36;38": "reason"
+        }
+    },
+    {
+        "context": "This information from other sources may include age , gender , demographic , geographic , personal interests , product purchase activity or other information .",
+        "span_posLabel": {
+            "1;1": "data",
+            "7;7": "data",
+            "9;9": "data",
+            "11;11": "data",
+            "13;13": "data",
+            "15;16": "data",
+            "18;20": "data"
+        }
+    },
+    {
+        "context": "We may report aggregate information , which is not able to be identified back to an individual user of the WebMD Sites , to our current or prospective advertisers and other business partners .",
+        "span_posLabel": {
+            "0;0": "target_direct"
+        }
+    },
+    {
+        "context": "Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site , which will also send these advertisers ( such as Google through the Google AdSense program ) information including your IP address , your ISP , the browser you used to visit our site , and in some cases , whether you have Flash installed .",
+        "span_posLabel": {
+            "3;3": "target_in_direct",
+            "9;12": "data",
+            "36;36": "data",
+            "39;40": "data",
+            "42;43": "data",
+            "45;52": "data",
+            "59;63": "data"
+        }
+    },
+    {
+        "context": "This is generally used for geotargeting purposes ( showing New York bridal shops ads to someone in New York , for example ) or showing certain ads based on specific sites visited ( such as showing wedding favors ads to someone who recently visited wedding related sites ) .",
+        "span_posLabel": {
+            "5;6": "reason",
+            "24;31": "reason"
+        }
+    },
+    {
+        "context": "Iron.io uses Web beacons alone or in conjunction with cookies to compile information about Customers and Visitors \u2019 usage of the Company \u2019 s Web site and interaction with emails from the Company .",
+        "span_posLabel": {
+            "0;0": "target_direct",
+            "2;3": "medium",
+            "9;9": "medium",
+            "12;25": "data",
+            "27;32": "data"
+        }
+    },
+    {
+        "context": "For example , Iron.io may place Web beacons in marketing emails that notify the Company when you click on a link in the email that directs you to one of the Company \u2019 s Web site .",
+        "span_posLabel": {
+            "3;3": "target_direct",
+            "5;10": "medium"
+        }
+    },
+    {
+        "context": "Iron.io uses Web beacons to operate and improve the Company \u2019 s Web site and email communications .",
+        "span_posLabel": {
+            "5;16": "reason"
+        }
+    },
+    {
+        "context": "If you submit an application for employment to or are currently an employee of MediaNews Group , MediaNews Group collects your Personal Information through your application for employment or during continued employment with MediaNews Group , and your submission of employee related documents ( collectively \u201c Employee Information \u201d ) .",
+        "span_posLabel": {
+            "1;1": "source_direct",
+            "2;15": "medium",
+            "17;18": "target_direct"
+        }
+    },
+    {
+        "context": "Examples of Employee Information that may be collected in connection with your employment or application for employment include your name , date of birth , government issued identification , banking information , marital status , health information , benefit information , employment history , education , job qualifications , and other relevant employee personal data .",
+        "span_posLabel": {
+            "19;19": "data_compulsory",
+            "21;23": "data_compulsory",
+            "25;27": "data_compulsory",
+            "29;30": "data_compulsory",
+            "32;33": "data_compulsory",
+            "35;36": "data_compulsory",
+            "38;39": "data_compulsory",
+            "41;42": "data_compulsory",
+            "44;44": "data_compulsory",
+            "46;47": "data_compulsory",
+            "50;54": "data_compulsory"
+        }
+    },
+    {
+        "context": "We also collect some of this information about your dependents when you provide it to us when you enroll in health and other benefits or provide contact information .",
+        "span_posLabel": {
+            "0;0": "target_direct",
+            "8;9": "source_indirect",
+            "16;27": "medium"
+        }
+    },
+    {
+        "context": "Information about your use of the service - We may collect information about your interaction with the service to help validate your identity or detect potentially fraudulent conduct .",
+        "span_posLabel": {
+            "8;8": "target_direct",
+            "11;11": "data",
+            "14;17": "medium",
+            "20;22": "reason",
+            "24;27": "reason"
+        }
+    },
+    {
+        "context": "Our primary goals in collecting information are to provide and improve our Services and to enable our users to enjoy and easily navigate our Services .",
+        "span_posLabel": {
+            "8;12": "reason",
+            "15;24": "reason"
+        }
+    },
+    {
+        "context": "To provide you with a consistent user experience and to recognize you as a user across our Services , we may collect and combine data as described below ; for example , data collected when you visit the Site or the App from one browser or device may be combined or linked with data collected when you visit the Site or App from a different browser or device .",
+        "span_posLabel": {
+            "1;7": "reason",
+            "9;17": "reason"
+        }
+    },
+    {
+        "context": "For added convenience , we have employed a \u201c cookie \u201d system for our website .",
+        "span_posLabel": {
+            "4;4": "target_direct",
+            "9;9": "medium"
+        }
+    },
+    {
+        "context": "This information allows us to make our site easier to use .",
+        "span_posLabel": {
+            "1;1": "data",
+            "5;10": "reason"
+        }
+    },
+    {
+        "context": "Cookies allow our servers to keep track of customer details between visits to our site .",
+        "span_posLabel": {
+            "0;0": "data",
+            "5;14": "reason"
+        }
+    },
+    {
+        "context": "The information stored by the cookie includes the data that is provided during online registration .",
+        "span_posLabel": {
+            "1;1": "data",
+            "5;5": "medium",
+            "8;14": "data_compulsory"
+        }
+    },
+    {
+        "context": "Other information stored by the cookie includes website traffic data .",
+        "span_posLabel": {
+            "1;1": "data",
+            "5;5": "medium",
+            "7;9": "data_compulsory"
+        }
+    },
+    {
+        "context": "This is not used to identify individual details but only collated into aggregate anonymous results in order to evaluate and improve our shopping service for our customers .",
+        "span_posLabel": {
+            "18;26": "reason"
+        }
+    },
+    {
+        "context": "Our third-party service providers also may use Flash cookies to collect and store information .",
+        "span_posLabel": {
+            "1;3": "target_in_direct",
+            "7;8": "medium",
+            "10;13": "reason"
+        }
+    },
+    {
+        "context": "Information from traffic references : when you visit a website , you unveil certain information about you , such as your IP address , time of visit , place from which you accessed our website .",
+        "span_posLabel": {
+            "7;9": "medium",
+            "11;11": "source_direct",
+            "16;16": "source_direct",
+            "20;20": "source_direct",
+            "21;22": "data_compulsory",
+            "24;26": "data_compulsory",
+            "28;34": "data_compulsory"
+        }
+    },
+    {
+        "context": "When you enroll in our HawaiianMiles program , we collect certain personally-identifiable information such as your name , address , email address , and phone numbers .",
+        "span_posLabel": {
+            "2;6": "medium",
+            "8;8": "target_direct",
+            "11;12": "data",
+            "16;16": "data_compulsory",
+            "18;18": "data_compulsory",
+            "20;21": "data_compulsory",
+            "24;25": "data_compulsory"
+        }
+    },
+    {
+        "context": "The information you provide when you enroll is used for purposes such as establishing your HawaiianMiles account , ensuring that you receive appropriate mileage credit for travel purchases and purchases of qualifying products and services from participating Partners , communicating with you about your account status , and sending you any updates you request and notifying you of special offers and promotions we think may be of interest to you .",
+        "span_posLabel": {
+            "1;1": "data",
+            "4;6": "medium",
+            "13;16": "reason",
+            "18;37": "reason",
+            "39;45": "reason",
+            "48;53": "reason",
+            "55;69": "reason"
+        }
+    },
+    {
+        "context": "From time to time , Winter and Sparrow may contact you via email for the purpose of providing announcements , promotional offers , alerts , confirmations , surveys , and/or other general communication .",
+        "span_posLabel": {
+            "5;7": "target_direct",
+            "10;10": "source_direct",
+            "12;12": "data_compulsory",
+            "17;32": "reason"
+        }
+    },
+    {
+        "context": "_Service Providers .",
+        "span_posLabel": {
+            "0;1": "target_in_direct"
+        }
+    },
+    {
+        "context": "_We may share any of your data with third party companies and individuals we engage to facilitate our Services , to provide services to us or on our behalf , to perform related services ( e.g. , without limitation , maintenance services , database management , web analytics and improvement of our features ) or to assist us in analyzing how our Services are used .",
+        "span_posLabel": {
+            "0;0": "source_indirect",
+            "5;6": "data",
+            "21;28": "reason",
+            "31;33": "reason",
+            "56;64": "reason"
+        }
+    },
+    {
+        "context": "We also share information about your use of Yummly products that does not personally identify you with service providers that store this information to improve the Services .",
+        "span_posLabel": {
+            "0;0": "source_indirect",
+            "3;15": "data",
+            "17;18": "target_in_direct",
+            "24;26": "reason"
+        }
+    },
+    {
+        "context": "Some areas of our Site request or require you to provide your contact information ( such as your name and email address ) .",
+        "span_posLabel": {
+            "3;4": "target_direct",
+            "8;8": "source_direct",
+            "12;13": "data",
+            "18;18": "data",
+            "20;21": "data"
+        }
+    },
+    {
+        "context": "Your contact information may be used to communicate with you when necessary with respect to transactions conducted through the Site and material changes in the Site 's policies .",
+        "span_posLabel": {
+            "1;2": "data",
+            "7;9": "reason"
+        }
+    },
+    {
+        "context": "Partners : We partner with other third party providers of specific services .",
+        "span_posLabel": {
+            "2;2": "target_direct",
+            "6;8": "target_in_direct",
+            "10;11": "reason"
+        }
+    },
+    {
+        "context": "When the user signs up for these services , we will share names , e-mail addresses , or other contact information that is necessary for the third party to provide these services .",
+        "span_posLabel": {
+            "2;7": "medium",
+            "9;9": "source_indirect",
+            "12;12": "data",
+            "14;15": "data",
+            "19;20": "data",
+            "26;27": "target_in_direct",
+            "29;31": "reason"
+        }
+    },
+    {
+        "context": "Importantly , as part of our Terms of Service we use this information to communicate with you to let you know when someone has engaged or made a connection with you through our Site .",
+        "span_posLabel": {
+            "9;9": "target_direct",
+            "12;12": "data",
+            "14;16": "reason",
+            "18;24": "reason",
+            "26;33": "reason"
+        }
+    },
+    {
+        "context": "Examples of this are notifing you when another user has collaborated on a news story or post either originated by you or edited by you , or when another user directly sends you a private message through Blottr .",
+        "span_posLabel": {
+            "4;24": "reason",
+            "28;37": "reason"
+        }
+    },
+    {
+        "context": "You can contribute to the Site in a number of different ways , including writing reviews , uploading photos , participating in talk threads , sending compliments , filling out your public profile , and voting on other users ' contributions .",
+        "span_posLabel": {
+            "0;0": "source_direct",
+            "13;15": "medium",
+            "17;18": "medium",
+            "20;23": "medium",
+            "25;26": "medium",
+            "28;32": "medium",
+            "35;40": "medium"
+        }
+    },
+    {
+        "context": "We may store these contributions ( your `` Public Content '' ) , display them to other users , and use them for promotional purposes .",
+        "span_posLabel": {
+            "0;0": "target_direct",
+            "4;4": "data_optional",
+            "13;17": "reason",
+            "20;24": "reason"
+        }
+    },
+    {
+        "context": "This policy is effective from 02/23/2015 * * What we collect * * We may collect the following information : contact information including email address ; demographic information such as postcode , preferences and interests ; other information relevant to customer surveys and/or offers",
+        "span_posLabel": {
+            "13;13": "target_direct",
+            "23;24": "data_compulsory",
+            "30;30": "data_compulsory",
+            "32;34": "data_compulsory"
+        }
+    },
+    {
+        "context": "Log files do not capture personal information but do capture the user 's IP address , which is automatically recognised by our web servers .",
+        "span_posLabel": {
+            "0;1": "medium",
+            "11;11": "source_direct",
+            "13;14": "data"
+        }
+    },
+    {
+        "context": "This Notice applies to www.drweil.com ( the \u201c Website \u201d ) .",
+        "span_posLabel": {
+            "4;4": "target_direct"
+        }
+    },
+    {
+        "context": "We may modify the Notice from time to time and post those modifications here .",
+        "span_posLabel": {
+            "0;0": "target_direct"
+        }
+    },
+    {
+        "context": "Your continued use of the Website after any such modification constitutes your acceptance of the modified Notice .",
+        "span_posLabel": {
+            "0;0": "source_direct",
+            "11;11": "source_direct"
+        }
+    },
+    {
+        "context": "We collect Your Personal Information/Information when you use BadtameezDilNet and when You share such information with Us through email or by posting on BadtameezDilNet or by any other means made available to You by Us .",
+        "span_posLabel": {
+            "0;0": "target_direct",
+            "3;3": "data",
+            "4;8": "data",
+            "18;23": "medium"
+        }
+    },
+    {
+        "context": "During browsing/using of BadtameezDilNet by You , We collect information with respect to Your IP Address and zip code .",
+        "span_posLabel": {
+            "1;3": "medium",
+            "7;7": "target_direct",
+            "9;9": "data",
+            "14;15": "data",
+            "17;18": "data"
+        }
+    },
+    {
+        "context": "In the event You want to share any feedback or raise a concern , We collect information with respect to Your name , age , mobile number , email address , gender , occupation etc .",
+        "span_posLabel": {
+            "3;3": "source_direct",
+            "8;8": "data_optional",
+            "20;21": "data",
+            "23;23": "data",
+            "25;26": "data",
+            "28;29": "data",
+            "31;31": "data",
+            "33;33": "data"
+        }
+    },
+    {
+        "context": "* * As you interact with our website , we may automatically collect Technical Data about your equipment , browsing actions and patterns .",
+        "span_posLabel": {
+            "4;7": "medium",
+            "9;9": "target_direct",
+            "13;17": "data_compulsory",
+            "19;22": "data_compulsory"
+        }
+    },
+    {
+        "context": "We collect this personal data by using cookies , server logs and other similar technologies .",
+        "span_posLabel": {
+            "7;7": "medium",
+            "9;10": "medium",
+            "12;14": "medium"
+        }
+    },
+    {
+        "context": "We may also receive Technical Data about you if you visit other websites employing our cookies .",
+        "span_posLabel": {
+            "10;15": "medium"
+        }
+    },
+    {
+        "context": "This notice applies to all information collected or submitted on the SBT websites .The types of personal information collected at these pages are : Name , Address , and Email address .",
+        "span_posLabel": {
+            "16;17": "data",
+            "20;21": "target_direct",
+            "24;24": "data",
+            "26;26": "data",
+            "29;30": "data"
+        }
+    },
+    {
+        "context": "SBT online internet services collect information/allows updates ( from registered customers ) of password email address password hint mobile number and cell mail address .",
+        "span_posLabel": {
+            "0;3": "target_direct",
+            "5;5": "data"
+        }
+    },
+    {
+        "context": "We may use your IP address to help diagnose problems with our server , gather broad demographic information , and administer our Web site .",
+        "span_posLabel": {
+            "0;0": "target_direct",
+            "4;5": "data",
+            "8;12": "reason",
+            "14;17": "reason",
+            "20;23": "reason"
+        }
+    },
+    {
+        "context": "Your Personal Information may be shared with third parties who have a need or authority to receive such information , if we have a good-faith belief that access , use , preservation or disclosure of the information is reasonably necessary to comply with ( i ) in response to any authority having to receive such information under law ( ii ) any order of court ( iii ) detect , prevent , or otherwise address fraud , security or technical issues ( iv ) protect against harm to the rights , property or safety of Unacademy , our users or the public as required or permitted by law .",
+        "span_posLabel": {
+            "0;0": "source_direct",
+            "1;2": "data",
+            "7;8": "target_in_direct",
+            "50;57": "reason",
+            "62;64": "reason",
+            "68;80": "reason",
+            "84;107": "reason"
+        }
+    },
+    {
+        "context": "We may aggregate your personal information with personal information of other members and users , and disclose such information to advertisers and other third-parties for marketing and promotional purposes .",
+        "span_posLabel": {
+            "0;0": "target_direct",
+            "3;5": "data",
+            "7;13": "data",
+            "18;18": "data",
+            "20;20": "target_in_direct",
+            "22;23": "target_in_direct",
+            "25;28": "reason"
+        }
+    },
+    {
+        "context": "We use technologies like cookies ( small files stored by your browser ) , web beacons , or unique device identifiers to anonymously identify your computer or device so we can deliver a better experience .",
+        "span_posLabel": {
+            "0;0": "target_direct",
+            "4;4": "medium",
+            "14;15": "medium",
+            "18;20": "medium",
+            "22;27": "reason",
+            "31;34": "reason"
+        }
+    },
+    {
+        "context": "Our systems also log information like your browser , operating system and IP address .",
+        "span_posLabel": {
+            "0;1": "target_direct",
+            "4;4": "data",
+            "6;6": "source_direct",
+            "7;7": "data_compulsory",
+            "9;10": "data_compulsory",
+            "12;13": "data_compulsory"
+        }
+    },
+    {
+        "context": "With your account , we keep detailed information on the vocabulary you decided to learn and your training activities particularly words , phrases you are learning or have learned .",
+        "span_posLabel": {
+            "1;1": "source_direct",
+            "4;4": "target_direct",
+            "7;14": "data_compulsory",
+            "16;28": "data_compulsory"
+        }
+    },
+    {
+        "context": "We and our partners use cookies and similar technologies on the Site to personalize and optimize your browsing experience and the Site by , providing you tailored content and advertisements ( see below for more information ) , enabling social media features , safeguarding against spam and malware , analyzing trends , traffic , and user behavior , administering the website , gathering demographic information about our user base as a whole , tracking web and advertising analytics throughout the Site and its affiliate websites , remembering your preferences and voluntarily-submitted information ( e.g .",
+        "span_posLabel": {
+            "0;0": "target_direct",
+            "2;3": "target_in_direct",
+            "5;5": "medium",
+            "7;8": "medium",
+            "13;18": "reason",
+            "24;29": "reason",
+            "38;41": "reason",
+            "43;47": "reason",
+            "49;50": "reason",
+            "52;52": "reason",
+            "55;56": "reason",
+            "58;60": "reason",
+            "62;71": "reason",
+            "73;84": "reason",
+            "86;88": "reason",
+            "90;91": "reason"
+        }
+    },
+    {
+        "context": "custom video playlists , preferences , job title , story ratings , membership status ) , performing location-related functionalities and analytics , participating in market research ( e.g. , website ratings ) , and educating ourselves about how we can continue to improve the Site and its various elements .",
+        "span_posLabel": {
+            "16;18": "reason",
+            "20;20": "reason",
+            "22;25": "reason",
+            "34;48": "reason"
+        }
+    },
+    {
+        "context": "In limited circumstances WSL may provide your Personal Data to third parties such as co-sponsors or promoters of WSL events for use as permitted in this Privacy Policy .",
+        "span_posLabel": {
+            "3;3": "target_direct",
+            "7;8": "data",
+            "10;11": "target_in_direct",
+            "14;14": "target_in_direct",
+            "16;19": "target_in_direct"
+        }
+    },
+    {
+        "context": "WSL may also share information about your use of the WSL Digital Sites in anonymized , aggregate form with our trusted social media , advertising and analytic partners for the purposes set out in this Privacy Policy , for example , to improve and personalize your experience on the WSL Digital Sites or to perform analytics .",
+        "span_posLabel": {
+            "0;0": "target_direct",
+            "4;12": "data",
+            "20;22": "target_in_direct",
+            "24;27": "target_in_direct",
+            "41;51": "reason",
+            "53;55": "reason"
+        }
+    },
+    {
+        "context": "_WHEN YOU REGISTER A USER ACCOUNT IN OUR WEBSITE_ \\- In order to use the personalized features within the Web-based Q8Showroom Guide , you may be asked to complete the registration form .",
+        "span_posLabel": {
+            "23;23": "source_direct",
+            "30;31": "medium"
+        }
+    },
+    {
+        "context": "During registration , you may be requested to voluntarily provide your contact information ( such as name and email address ) .",
+        "span_posLabel": {
+            "3;3": "source_direct",
+            "11;12": "data_optional",
+            "16;16": "data_optional",
+            "18;19": "data_optional"
+        }
+    },
+    {
+        "context": "Q8Showroom will only collect the information that you voluntarily submit , and will use such information only for specific information/services requested .",
+        "span_posLabel": {
+            "0;0": "target_direct",
+            "7;7": "source_direct",
+            "17;20": "reason"
+        }
+    },
+    {
+        "context": "It is optional for you to provide demographic information ( such as gender ) , but you are encouraged to do so we can provide a more personalized experience on our site .",
+        "span_posLabel": {
+            "4;4": "source_direct",
+            "7;8": "data_optional",
+            "12;12": "data_optional",
+            "24;31": "reason"
+        }
+    },
+    {
+        "context": "The terms `` we '' , `` us '' , and `` Jeeran '' refer to Jeeran Holdings Inc. , a British Virgin Islands corporation .",
+        "span_posLabel": {
+            "16;18": "target_direct"
+        }
+    },
+    {
+        "context": "Facebook receives the information that your IP address was browsing our website .",
+        "span_posLabel": {
+            "0;0": "target_in_direct",
+            "5;5": "source_direct",
+            "6;7": "data_optional",
+            "10;11": "medium"
+        }
+    },
+    {
+        "context": "Facebook uses this information for providing us anonymous statistics regarding the use of our website and the efficiency of our Facebook ads .",
+        "span_posLabel": {
+            "5;21": "reason"
+        }
+    },
+    {
+        "context": "Since our social media content is available to the general public , if you make a comment on a social media site , any information in your comment , as well as your profile name and any other public profile information , will be available to the general public to see .",
+        "span_posLabel": {
+            "12;21": "medium",
+            "24;27": "data_optional",
+            "32;32": "source_direct",
+            "33;34": "data_optional",
+            "47;48": "target_in_direct"
+        }
+    },
+    {
+        "context": "_ When you visit or use the Services or use a Yummly website or mobile application that has Yummly features ( like the * * Yum * * button ) , our servers automatically record information that your browser or mobile device sends or transmits ( * * Usage Information * * ) .",
+        "span_posLabel": {
+            "2;2": "source_direct",
+            "3;7": "medium",
+            "9;19": "medium",
+            "31;32": "target_direct"
+        }
+    },
+    {
+        "context": "This Usage Information may include information such as your computer 's Internet Protocol ( IP ) address , browser type or the webpage you were visiting before you came to our Site , pages of our Site or the App that you visit ( or of the site you visited that had the Yummly feature ) , the time spent on those pages , information you search for , access times and dates , the model and device ID number of your mobile device , user settings , location ( if you enable this feature ) , and statistics and information about your use of the Site and App .",
+        "span_posLabel": {
+            "11;16": "data_compulsory",
+            "18;19": "data_compulsory",
+            "22;31": "data_compulsory",
+            "33;42": "data_compulsory",
+            "58;62": "data_compulsory",
+            "64;67": "data_compulsory",
+            "69;72": "data_compulsory",
+            "74;83": "data_compulsory",
+            "85;86": "data_compulsory",
+            "88;88": "data_compulsory",
+            "98;108": "data_compulsory"
+        }
+    },
+    {
+        "context": "We use this information to provide and improve the Services , develop new products , and offer products and services that may be of interest to you .",
+        "span_posLabel": {
+            "5;9": "reason",
+            "11;13": "reason",
+            "16;26": "reason"
+        }
+    },
+    {
+        "context": "We also use Usage Information to monitor and analyze use of the Services , for technical administration , to improve functionality and user-friendliness , and to better tailor our Services to our visitors ' needs .",
+        "span_posLabel": {
+            "6;12": "reason",
+            "15;16": "reason",
+            "19;22": "reason",
+            "26;34": "reason"
+        }
+    },
+    {
+        "context": "For example , some of this information is collected so that when you revisit the Services , we will recognize you and can serve advertisements and other information appropriate to your interests .",
+        "span_posLabel": {
+            "19;31": "reason"
+        }
+    },
+    {
+        "context": "We may store your communications , including any personal information you include in them , so that we can effectively respond to you .",
+        "span_posLabel": {
+            "0;0": "target_direct",
+            "3;3": "source_direct",
+            "4;4": "data_optional",
+            "8;11": "data_optional",
+            "15;22": "reason"
+        }
+    },
+    {
+        "context": "IGENETIX does not , without provision in this privacy policy , share personally identifiable information about you and your aggregate usage information that we collect with any other company .",
+        "span_posLabel": {
+            "0;0": "target_direct",
+            "12;14": "data",
+            "16;16": "source_direct",
+            "23;23": "target_direct"
+        }
+    },
+    {
+        "context": "Examples of the types of personally identifiable information that may be collected include : name , address , e-mail address , telephone number , fax number and information about your interests in and use of various products and services .",
+        "span_posLabel": {
+            "5;7": "data",
+            "14;14": "data_optional",
+            "16;16": "data_optional",
+            "18;19": "data_optional",
+            "21;22": "data_optional",
+            "24;25": "data_optional",
+            "27;30": "data_optional"
+        }
+    },
+    {
+        "context": "We may share your personal information with third parties who provide services on our behalf to help with our business activities such as email service providers , data analyzers and business intelligence providers .",
+        "span_posLabel": {
+            "0;0": "target_direct",
+            "3;3": "source_direct",
+            "4;5": "data",
+            "7;8": "target_in_direct",
+            "10;14": "reason",
+            "16;20": "reason",
+            "23;25": "reason",
+            "27;28": "reason",
+            "30;32": "reason"
+        }
+    },
+    {
+        "context": "These companies are authorized to use your personal information only as necessary to provide these services to us .",
+        "span_posLabel": {
+            "0;1": "target_in_direct",
+            "6;6": "source_direct",
+            "7;8": "data",
+            "17;17": "target_direct"
+        }
+    },
+    {
+        "context": "For instance , we may collect information you provide to us if you register on the Service , respond to surveys , contact us through customer service or by other means , or participate in promotions that we may offer from time to time .",
+        "span_posLabel": {
+            "3;3": "target_direct",
+            "7;7": "source_direct",
+            "13;16": "medium",
+            "18;20": "medium",
+            "22;30": "medium",
+            "33;43": "medium"
+        }
+    },
+    {
+        "context": "Zealot , and our authorized agents , automatically receive and record certain \u201c * * traffic data * * \u201d on server logs , including your IP address , cookie information , the page you requested , device and software characteristics ( such as type and operating system ) , location , activity on the Service , ad data , referral URLs , device identifiers or other unique identifiers such as advertising identifiers ( e.g. , \u201c * * ad-ID * * \u201d or \u201c * * IDFA * * \u201c ) .",
+        "span_posLabel": {
+            "0;0": "target_direct",
+            "25;25": "source_direct",
+            "26;27": "data_compulsory",
+            "29;30": "data_compulsory",
+            "32;35": "data_compulsory",
+            "37;37": "data_compulsory",
+            "39;40": "data_compulsory",
+            "44;47": "data_compulsory",
+            "50;50": "data_compulsory",
+            "52;55": "data_compulsory",
+            "57;58": "data_compulsory",
+            "60;61": "data_compulsory",
+            "63;64": "data_compulsory",
+            "66;72": "data_compulsory"
+        }
+    },
+    {
+        "context": "; This traffic data is used to help diagnose problems with servers , analyze trends and administer the Service .",
+        "span_posLabel": {
+            "7;11": "reason",
+            "13;14": "reason",
+            "16;18": "reason"
+        }
+    },
+    {
+        "context": "We may also collect information other than Personal Information from You through the Website when You visit and /or use the Website .",
+        "span_posLabel": {
+            "0;0": "target_direct",
+            "10;10": "source_direct",
+            "14;21": "medium"
+        }
+    },
+    {
+        "context": "Such Non-Personal Information would not assist us to identify You personally .",
+        "span_posLabel": {
+            "8;10": "reason"
+        }
+    },
+    {
+        "context": "Such Non-Personal Information may include : Your usage details such as time , frequency , duration and pattern of use , features used and the amount of storage used , Master and transaction data and other data stored in Your user account , Internet Protocol address , browser type , browser language , referring URL , files accessed , errors generated , time zone , operating system and other visitor details collected in Our log files ,",
+        "span_posLabel": {
+            "6;6": "source_direct",
+            "7;19": "data_compulsory",
+            "21;28": "data_compulsory",
+            "30;41": "data_compulsory",
+            "43;45": "data_compulsory",
+            "47;48": "data_compulsory",
+            "50;51": "data_compulsory",
+            "53;54": "data_compulsory",
+            "56;57": "data_compulsory",
+            "59;60": "data_compulsory",
+            "62;63": "data_compulsory",
+            "65;66": "data_compulsory",
+            "68;75": "data_compulsory"
+        }
+    },
+    {
+        "context": "The non-personally identifiable information collected may be used to improve the design and content of our sites , and to enable us to personalise your Blottr experience .",
+        "span_posLabel": {
+            "1;3": "data",
+            "9;16": "reason",
+            "20;26": "reason"
+        }
+    },
+    {
+        "context": "This information may also be used to provide you with additional product and service opportunities and to make inferences about your interests in order to deliver more relevant marketing messages and advertisements ,",
+        "span_posLabel": {
+            "1;1": "data",
+            "7;14": "reason",
+            "17;31": "reason"
+        }
+    },
+    {
+        "context": "We may share your personal information with any member of our group , which means our subsidiaries , our ultimate holding company and its subsidiaries , as defined in section 1159 of the UK Companies Act 2006 .",
+        "span_posLabel": {
+            "0;0": "target_direct",
+            "3;3": "source_direct",
+            "4;5": "data",
+            "7;11": "target_in_direct",
+            "15;16": "target_in_direct",
+            "18;24": "target_in_direct"
+        }
+    },
+    {
+        "context": "We also use cookies to track the usage of our website .",
+        "span_posLabel": {
+            "0;0": "target_direct",
+            "3;3": "medium",
+            "5;10": "reason"
+        }
+    },
+    {
+        "context": "The personal data analysed by the software includes email address , phone number , job title , address , purchase history and account information .",
+        "span_posLabel": {
+            "1;2": "data",
+            "6;6": "target_in_direct",
+            "8;9": "data",
+            "11;12": "data",
+            "14;15": "data",
+            "17;17": "data",
+            "19;20": "data",
+            "22;23": "data"
+        }
+    },
+    {
+        "context": "The Online Slang Dictionary uses Google 's FeedBurner service to deliver e-mail updates .",
+        "span_posLabel": {
+            "0;3": "target_direct",
+            "5;8": "medium",
+            "10;12": "reason"
+        }
+    },
+    {
+        "context": "If you choose to subscribe to email updates , your email address goes directly to Google .",
+        "span_posLabel": {
+            "2;7": "medium",
+            "10;11": "data",
+            "15;15": "target_in_direct"
+        }
+    },
+    {
+        "context": "If you choose to do so , that user information may be shared with 420 as well as business partners and vendors providing hosting and other services for 420 Magazine .",
+        "span_posLabel": {
+            "1;1": "source_direct",
+            "8;9": "data",
+            "14;14": "target_direct",
+            "18;23": "target_in_direct",
+            "25;29": "target_in_direct"
+        }
+    },
+    {
+        "context": "Some of our advertising partners may use cookies and web beacons on our site .",
+        "span_posLabel": {
+            "3;4": "target_in_direct",
+            "7;7": "medium",
+            "9;10": "medium"
+        }
+    },
+    {
+        "context": "These third-party ad servers or ad networks use technology to deliver the advertisements and links that appear on iwebask.com .",
+        "span_posLabel": {
+            "10;18": "reason"
+        }
+    },
+    {
+        "context": "They automatically receive your IP address when this occurs .",
+        "span_posLabel": {
+            "3;3": "source_direct",
+            "4;5": "data_compulsory"
+        }
+    },
+    {
+        "context": "Applications and services may use your Basic Personal Data in these ways : To uniquely identify you ; To communicate with you about your Account status ; To authorize your level of access ; To reflect your Basic Personal Data to you ( for example , an on-screen greeting ) ; To perform security/audit logging , including in conjunction with your IP Address ; To perform problem determination , system administration , subscription management , usage tracking , and support activities ; To set secure cookies which maintain your authenticated user session ( s ) with applications or services .",
+        "span_posLabel": {
+            "0;2": "target_direct",
+            "5;5": "source_direct",
+            "6;8": "data",
+            "14;16": "reason",
+            "19;25": "reason",
+            "28;32": "reason",
+            "35;41": "reason",
+            "52;54": "reason",
+            "65;80": "reason",
+            "83;98": "reason"
+        }
+    },
+    {
+        "context": "If You submit personally identifiable information to Us through the Webnode Sites We use Your personal information to operate , maintain , and provide to You the features and functionality of the Webnode Sites .",
+        "span_posLabel": {
+            "1;1": "source_direct",
+            "2;2": "medium",
+            "3;5": "data",
+            "7;7": "target_direct",
+            "8;11": "medium",
+            "12;12": "target_direct",
+            "14;14": "source_direct",
+            "15;16": "data",
+            "18;33": "reason"
+        }
+    },
+    {
+        "context": "We use cookies to personalize your usage , to track usage patterns on the site , and to record registration and personalization information .",
+        "span_posLabel": {
+            "0;0": "target_direct",
+            "2;2": "data",
+            "4;6": "reason",
+            "9;14": "reason",
+            "18;22": "reason"
+        }
+    },
+    {
+        "context": "We may combine your information , including Usage Data , with information from third parties in order to enhance our ability to communicate with you and provide you opportunities to purchase products or services that we believe may be of interest to you .",
+        "span_posLabel": {
+            "0;0": "target_direct",
+            "7;8": "data",
+            "11;14": "data",
+            "18;24": "reason",
+            "26;33": "reason"
+        }
+    },
+    {
+        "context": "In this context , we may disclose to third parties your Usage Data and other personal information that you provide to us , so long as combined and used in aggregate form and in a manner that does not identify you .",
+        "span_posLabel": {
+            "4;4": "target_direct",
+            "8;9": "target_in_direct",
+            "11;12": "data",
+            "15;16": "data"
+        }
+    },
+    {
+        "context": "We may share information that we have about you , such as a cookie ID or IP address , with third party advertising service providers who may use this information , on our behalf , to help WebMD deliver advertising on the WebMD Sites as well as on third party websites , as further described in our [ Cookie Policy ] ( https : //www.webmd.com/about-webmd-policies/cookie-policy ) .",
+        "span_posLabel": {
+            "0;0": "target_direct",
+            "3;3": "data",
+            "5;5": "target_direct",
+            "8;8": "source_direct",
+            "13;14": "data",
+            "16;17": "data",
+            "20;24": "target_in_direct",
+            "29;29": "data",
+            "36;50": "reason"
+        }
+    },
+    {
+        "context": "Google Adsense : These third-party ad servers or ad networks use technology to the advertisements and links that appear on IVYthemes.com send directly to your browsers .",
+        "span_posLabel": {
+            "0;1": "target_in_direct",
+            "20;20": "target_direct"
+        }
+    },
+    {
+        "context": "They automatically receive your IP address when this occurs .",
+        "span_posLabel": {
+            "3;3": "source_direct",
+            "4;5": "data_compulsory"
+        }
+    },
+    {
+        "context": "Other technologies ( such as cookies , JavaScript , or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see .",
+        "span_posLabel": {
+            "23;28": "reason",
+            "33;39": "reason"
+        }
+    },
+    {
+        "context": "trainchinese does send newsletters to inform you of new products or services or other information that may be of interest .",
+        "span_posLabel": {
+            "0;0": "target_direct",
+            "2;19": "reason"
+        }
+    },
+    {
+        "context": "We will use the data provided for creating your STYLEBOP account .",
+        "span_posLabel": {
+            "0;0": "target_direct",
+            "6;10": "reason"
+        }
+    },
+    {
+        "context": "We use any optional information according to our privacy policy and in order to personalize our services , including your STYLEBOP account .",
+        "span_posLabel": {
+            "0;0": "target_direct",
+            "3;4": "data_optional",
+            "14;21": "reason"
+        }
+    },
+    {
+        "context": "When you register a new STYLEBOP-account ( My account ) , you must provide the following information : Title , Your first and last name , Your email address , A password for your new account",
+        "span_posLabel": {
+            "1;1": "source_direct",
+            "2;5": "medium",
+            "11;11": "source_direct",
+            "18;18": "data_compulsory",
+            "21;24": "data_compulsory",
+            "27;28": "data_compulsory",
+            "31;31": "data_compulsory"
+        }
+    },
+    {
+        "context": "We collect your email address in order to :",
+        "span_posLabel": {
+            "0;0": "target_direct",
+            "2;2": "source_direct",
+            "3;4": "data_compulsory"
+        }
+    },
+    {
+        "context": "Traffic and transaction information may also be shared with business partners and advertisers on an aggregate and anonymous basis .",
+        "span_posLabel": {
+            "0;3": "data",
+            "9;10": "target_in_direct",
+            "12;12": "target_in_direct"
+        }
+    },
+    {
+        "context": "* Log files - deepdiscount.com may use log files to track how our sites are being accesses and used .",
+        "span_posLabel": {
+            "1;2": "medium",
+            "4;4": "target_direct",
+            "11;18": "data_optional"
+        }
+    },
+    {
+        "context": "Log files track anonymous user information such as IP addresses , browser types , Internet service providers , referring and exit pages , platform type , date and time stamps , and number of clicks to , from , and within our sites .",
+        "span_posLabel": {
+            "8;9": "data_compulsory",
+            "11;12": "data_compulsory",
+            "14;16": "data_compulsory",
+            "18;21": "data_compulsory",
+            "23;24": "data_compulsory",
+            "26;29": "data_compulsory",
+            "32;42": "data_compulsory"
+        }
+    },
+    {
+        "context": "EV World uses `` cookies '' to automatically recognize returning users .",
+        "span_posLabel": {
+            "4;4": "medium",
+            "7;10": "reason"
+        }
+    },
+    {
+        "context": "You can block cookies by changing the settings on your browser ( contact your ISP for help ) , but doing so may prevent us from delivering certain services to you ( e.g. , saved searches ) .",
+        "span_posLabel": {
+            "0;0": "source_direct",
+            "3;3": "medium"
+        }
+    },
+    {
+        "context": "We use `` cookies '' to store specific information about you and track your visits to our Site .",
+        "span_posLabel": {
+            "0;0": "target_direct",
+            "3;3": "medium",
+            "10;10": "source_direct",
+            "12;17": "reason"
+        }
+    },
+    {
+        "context": "It is not uncommon for websites to use cookies to enhance identification of their users .",
+        "span_posLabel": {
+            "10;14": "reason"
+        }
+    },
+    {
+        "context": "Generally , we use cookies to identify you and enable us to access your Registration Information , Publishing Information or Payment Information so you do not have to re-enter it ; gather statistical information about usage by Users ; research visiting patters and help target advertisements based on User interests ; assist our partners to track User visits to the Site and process orders ; and track progress and participation in promotions .",
+        "span_posLabel": {
+            "2;2": "target_direct",
+            "4;4": "medium",
+            "6;7": "reason",
+            "9;21": "reason",
+            "31;35": "reason",
+            "39;49": "reason",
+            "51;63": "reason",
+            "66;71": "reason"
+        }
+    },
+    {
+        "context": "We may use cookies to bring together information we collect about you .",
+        "span_posLabel": {
+            "0;0": "target_direct",
+            "3;3": "medium",
+            "7;7": "data",
+            "8;8": "target_direct",
+            "11;11": "source_direct"
+        }
+    },
+    {
+        "context": "Statistical Information : We use Statistical Information to help diagnose problems with and maintain our computer servers , to manage our Site , and to enhance our Site and services based on the usage pattern data we receive .",
+        "span_posLabel": {
+            "3;3": "target_direct",
+            "5;6": "data",
+            "8;16": "reason",
+            "19;21": "reason",
+            "25;35": "reason"
+        }
+    },
+    {
+        "context": "We may generate reports and analysis based on the Statistical Information for internal analysis , monitoring and marketing decisions .",
+        "span_posLabel": {
+            "0;0": "target_direct",
+            "2;5": "reason",
+            "9;10": "data",
+            "12;13": "reason",
+            "15;15": "reason",
+            "17;18": "reason"
+        }
+    },
+    {
+        "context": "When you send us emails , contact our technical support or when we offer advertising solutions that include the collection of your email address as part of an advertisement , you are communicating with us voluntarily .",
+        "span_posLabel": {
+            "1;1": "source_direct",
+            "2;4": "medium",
+            "6;9": "medium",
+            "12;12": "target_direct",
+            "13;15": "medium",
+            "22;23": "data_compulsory"
+        }
+    },
+    {
+        "context": "You agree to receive electronic communication from us and that all communications that we provide to you electronically satisfy any legal requirement that such communications be in writing .",
+        "span_posLabel": {
+            "7;7": "target_direct",
+            "13;13": "target_direct",
+            "16;16": "source_direct"
+        }
+    },
+    {
+        "context": "You also agree that we may keep record of your correspondence with us and that we may use any information you provide to us voluntarily to improve the Services or otherwise at our sole discretion .",
+        "span_posLabel": {
+            "0;0": "source_direct",
+            "4;4": "target_direct",
+            "9;9": "source_direct",
+            "12;12": "target_direct",
+            "15;15": "target_direct",
+            "19;19": "data",
+            "26;28": "reason"
+        }
+    },
+    {
+        "context": "We use third-party advertising companies to serve ads when you visit our web site .",
+        "span_posLabel": {
+            "0;0": "target_direct",
+            "2;4": "target_in_direct",
+            "6;13": "reason"
+        }
+    },
+    {
+        "context": "These companies may use information ( not including your name , address email address or telephone number ) about your visits to this and other web sites in order to provide advertisements about goods and services of interest to you .",
+        "span_posLabel": {
+            "1;1": "target_in_direct",
+            "4;4": "data",
+            "18;20": "data",
+            "30;39": "reason"
+        }
+    },
+    {
+        "context": "We may use third parties , such as Google , to serve ads about our website over the internet .",
+        "span_posLabel": {
+            "0;0": "target_direct",
+            "3;4": "target_in_direct",
+            "8;8": "target_in_direct",
+            "11;18": "reason"
+        }
+    },
+    {
+        "context": "These third parties may use cookies to identify ads that may be relevant to your interest ( for example , based on your recent visit to our website ) , to limit the number of times that you see an ad , and to measure the effectiveness of the ads .",
+        "span_posLabel": {
+            "1;2": "target_in_direct",
+            "5;5": "medium",
+            "7;15": "reason",
+            "31;40": "reason",
+            "44;49": "reason"
+        }
+    },
+    {
+        "context": "To enhance , personalize , and support your experience on the Site , among other things , we collect , use , and share your user information .",
+        "span_posLabel": {
+            "1;1": "reason",
+            "3;3": "reason",
+            "6;11": "reason",
+            "24;24": "source_direct",
+            "25;26": "data"
+        }
+    },
+    {
+        "context": "For example , we use aggregated information to develop content targeted to user interests and to generally improve the Site \u2019 s user experience .",
+        "span_posLabel": {
+            "3;3": "target_direct",
+            "5;6": "data",
+            "8;13": "reason",
+            "17;23": "reason"
+        }
+    },
+    {
+        "context": "As detailed below , your user information may also be used by 420 and its partners to tailor content and ads , provide social media features ( e.g. , features that allow you to share content directly to your preferred social media platform ) , track your preferences , analyze traffic , and provide similar services and content .",
+        "span_posLabel": {
+            "4;4": "source_direct",
+            "5;6": "data",
+            "12;12": "target_direct",
+            "14;15": "target_in_direct",
+            "17;20": "reason",
+            "22;25": "reason",
+            "29;42": "reason",
+            "45;47": "reason",
+            "49;50": "reason",
+            "53;57": "reason"
+        }
+    },
+    {
+        "context": "For instance , when you enter a sweepstakes or contest , complete a survey , make a purchase , subscribe to our newsletters , or register for any portion of our services , you are asked to provide information , such as your e-mail address , name or phone number .",
+        "span_posLabel": {
+            "5;9": "medium",
+            "11;13": "medium",
+            "15;17": "medium",
+            "19;22": "medium",
+            "25;31": "medium",
+            "33;33": "source_direct",
+            "38;38": "data_compulsory",
+            "43;44": "data_compulsory",
+            "46;46": "data_compulsory",
+            "48;49": "data_compulsory"
+        }
+    },
+    {
+        "context": "Optional information such as your age or gender may also be requested .",
+        "span_posLabel": {
+            "5;5": "data_optional",
+            "7;7": "data_optional"
+        }
+    },
+    {
+        "context": "We do use cookies to store information , such as your personal preferences when you visit our site .",
+        "span_posLabel": {
+            "0;0": "target_direct",
+            "3;3": "medium",
+            "10;10": "source_direct",
+            "11;12": "data_optional"
+        }
+    },
+    {
+        "context": "* * In general , we only share your PII in order to provide , maintain , or improve our products or services , or respond to legal requests .",
+        "span_posLabel": {
+            "5;5": "target_direct",
+            "8;8": "source_direct",
+            "9;9": "data",
+            "13;22": "reason",
+            "25;28": "reason"
+        }
+    },
+    {
+        "context": "Upon request we provide site visitors with access to unique identifier information that we maintain about them , transaction information ( e.g. , subscription dates or payments ) that we maintain about them .",
+        "span_posLabel": {
+            "2;2": "target_direct",
+            "4;5": "target_in_direct",
+            "9;11": "data",
+            "18;19": "data",
+            "23;26": "data"
+        }
+    },
+    {
+        "context": "We use both Personal Information and non-personal information for multiple purposes , including : Improving or customizing the Web Site , Providing updates , Sending newsletters , promotional offers or opportunities regarding new services , products or events , and third-party products or services , including advertisements , Responding to your requests including providing you with our product and service offerings , Internal record keeping , Communicating with you about , and administering your participation in , promotions , surveys and market research , Operating , evaluating , and improving our business , Diagnosing problems with our Platform , administering our Platform , and enhancing the Platform , Monitoring the usage and performance of our Platform , Improving and analyzing our products and services , Managing our communications ; an , Reporting Personal Information about your account to credit bureaus ( such as late or payments , missed payments , or other defaults on your account may be reflected in your credit report ) , To protect against fraud and identity theft and comply with and enforce applicable legal requirements , relevant industry standards and our policies , including our Terms of Use .",
+        "span_posLabel": {
+            "0;0": "target_direct",
+            "3;4": "data",
+            "6;7": "data",
+            "14;19": "reason",
+            "21;22": "reason",
+            "24;25": "reason",
+            "27;43": "reason",
+            "48;60": "reason",
+            "62;64": "reason",
+            "66;82": "reason",
+            "84;91": "reason",
+            "93;97": "reason",
+            "99;101": "reason",
+            "108;115": "reason",
+            "117;123": "reason",
+            "125;127": "reason"
+        }
+    },
+    {
+        "context": "In general , Personally Identifiable Information and other information collected on our Website to collect payments you made in our * * [ Store ] ( https : //www.theparisreview.org/store.php ) * * and to correspond with you , to process a donation or otherwise to follow up on any such transactions .",
+        "span_posLabel": {
+            "3;5": "data",
+            "14;15": "reason",
+            "39;41": "reason",
+            "45;50": "reason"
+        }
+    },
+    {
+        "context": "On occasion , we may use your Personally Identifiable Information to send you information on new products or upcoming events .",
+        "span_posLabel": {
+            "3;3": "target_direct",
+            "7;9": "data",
+            "11;19": "reason"
+        }
+    },
+    {
+        "context": "If you have chosen to identify yourself to Iron.io , the Company uses session cookies containing encrypted information to allow the Company to uniquely identify you .",
+        "span_posLabel": {
+            "1;1": "source_direct",
+            "8;8": "target_direct",
+            "11;11": "target_direct",
+            "13;14": "data",
+            "19;25": "reason"
+        }
+    },
+    {
+        "context": "These session cookies allow the Company to uniquely identify you when you are logged into the Services and to process your online transactions and requests .",
+        "span_posLabel": {
+            "3;16": "reason",
+            "19;24": "reason"
+        }
+    },
+    {
+        "context": "Session cookies are required to use the Services .",
+        "span_posLabel": {
+            "0;7": "reason"
+        }
+    },
+    {
+        "context": "When you place an order on the Sites , make a purchase in one of our [ stores ] ( https : //www.tillys.com/store-list ) , create an account , sign up for our loyalty program , sign up to receive e-mails or catalogues from us , enter a contest or sweepstakes , download our app , or otherwise interact with us , we may ask for your name , payment information , billing address , shipping address , phone number , mobile phone number , or e-mail address .",
+        "span_posLabel": {
+            "1;1": "source_direct",
+            "2;7": "medium",
+            "9;11": "medium",
+            "25;27": "medium",
+            "29;34": "medium",
+            "36;42": "medium",
+            "44;44": "target_direct",
+            "46;50": "medium",
+            "52;54": "medium",
+            "58;60": "medium",
+            "62;62": "target_direct",
+            "66;66": "source_direct",
+            "67;67": "data_optional",
+            "69;70": "data_optional",
+            "72;73": "data_optional",
+            "75;76": "data_optional",
+            "78;79": "data_optional",
+            "81;83": "data_optional",
+            "86;87": "data_optional"
+        }
+    },
+    {
+        "context": "We also may receive personal information through the use of social media web sites and services , mobile apps , or from other sources .",
+        "span_posLabel": {
+            "0;0": "target_direct",
+            "4;5": "data",
+            "8;15": "medium",
+            "17;18": "medium"
+        }
+    },
+    {
+        "context": "We collect PII and/or anonymous information from you in the course of your use of the Services .",
+        "span_posLabel": {
+            "0;0": "target_direct",
+            "2;2": "data",
+            "4;5": "data",
+            "7;7": "source_direct",
+            "13;16": "medium"
+        }
+    },
+    {
+        "context": "That includes information you provide to us when you subscribe or register for any of our digital , in-person or printed products , services , events , or offerings ; sign up for newsletters or promotions ; participate in a survey ; purchase a product or service ; use one of our mobile applications ; post comments ; and/or otherwise communicate with us or interact with the Services .",
+        "span_posLabel": {
+            "2;2": "data",
+            "3;3": "source_direct",
+            "6;6": "target_direct",
+            "9;28": "medium",
+            "30;35": "medium",
+            "37;40": "medium",
+            "42;46": "medium",
+            "48;53": "medium",
+            "55;56": "medium",
+            "60;67": "medium"
+        }
+    },
+    {
+        "context": "The information collected by SUNY Plattsburgh , including personal information volunteered by you in completing the transaction , is used by SUNY Plattsburgh and may be disclosed by SUNY Plattsburgh for those purposes that may be reasonably ascertained from the nature and terms of the transaction in which the information was submitted .",
+        "span_posLabel": {
+            "4;5": "target_direct",
+            "8;12": "data_optional",
+            "14;16": "medium",
+            "21;22": "target_direct"
+        }
+    },
+    {
+        "context": "If you choose to register or update an existing account with WebMD or access certain Services , you may be required to provide certain personal information , such as your name , address , telephone number , gender , email address and date of birth , and a username and password to access your WebMD account .",
+        "span_posLabel": {
+            "4;11": "medium",
+            "13;15": "medium",
+            "17;17": "source_direct",
+            "24;25": "data",
+            "29;29": "source_direct",
+            "30;30": "data_compulsory",
+            "32;32": "data_compulsory",
+            "34;35": "data_compulsory",
+            "37;37": "data_compulsory",
+            "39;40": "data_compulsory",
+            "42;44": "data_compulsory",
+            "48;48": "data_compulsory",
+            "50;50": "data_compulsory",
+            "52;55": "reason"
+        }
+    },
+    {
+        "context": "Log Files : Log file information is automatically reported by Your browser each time You view a webpage .",
+        "span_posLabel": {
+            "3;5": "data",
+            "10;11": "source_direct",
+            "14;17": "medium"
+        }
+    },
+    {
+        "context": "When You register with or view Webnode Sites , Our servers automatically record certain information that Your web browser sends whenever You visit a website .",
+        "span_posLabel": {
+            "1;1": "source_direct",
+            "2;7": "medium",
+            "9;10": "target_direct",
+            "11;14": "medium"
+        }
+    },
+    {
+        "context": "These server logs may include information such as Your web request , Internet Protocol ( IP ) address , browser type , browser language , referring/exit pages and Universal Resource Locators ( URL ) , platform type , number of clicks , domain names , landing pages , pages viewed and the order of those pages , the amount of time spent on particular pages , the date and time of Your request , and one or more cookies that may uniquely identify Your browser .",
+        "span_posLabel": {
+            "9;10": "data_compulsory",
+            "12;17": "data_compulsory",
+            "19;20": "data_compulsory",
+            "22;23": "data_compulsory",
+            "25;33": "data_compulsory",
+            "35;36": "data_compulsory",
+            "38;40": "data_compulsory",
+            "42;43": "data_compulsory",
+            "45;46": "data_compulsory",
+            "48;55": "data_compulsory",
+            "57;64": "data_compulsory",
+            "66;72": "data_compulsory",
+            "75;84": "data_compulsory"
+        }
+    },
+    {
+        "context": "Time to time , you can be asked to do online surveys .",
+        "span_posLabel": {
+            "10;11": "medium"
+        }
+    },
+    {
+        "context": "You do not have the requirement to do such ; but these are used to gather information to better address your needs .",
+        "span_posLabel": {
+            "16;16": "data",
+            "18;21": "reason"
+        }
+    },
+    {
+        "context": "Based on this , we can keep you updated on account and service .",
+        "span_posLabel": {
+            "6;12": "reason"
+        }
+    },
+    {
+        "context": "MyFolio.com collects personal information from users during the MyFolio.com registration process , with the use of the MyFolio.com website , or when you visit the pages of certain MyFolio.com partners ' websites .",
+        "span_posLabel": {
+            "0;0": "target_direct",
+            "2;3": "data",
+            "5;5": "source_direct",
+            "8;10": "medium",
+            "21;31": "medium"
+        }
+    },
+    {
+        "context": "During the registration process at the MyFolio.com website , we will ask for information such as your name , birth date , gender , ZIP code , occupation , industry , e-mail address and personal interests .",
+        "span_posLabel": {
+            "13;13": "data",
+            "16;16": "source_direct",
+            "17;17": "data_compulsory",
+            "19;20": "data_compulsory",
+            "22;22": "data_compulsory",
+            "24;25": "data_compulsory",
+            "27;27": "data_compulsory",
+            "29;29": "data_compulsory",
+            "31;32": "data_compulsory",
+            "34;35": "data_compulsory"
+        }
+    },
+    {
+        "context": "MyFolio.com automatically receives browser information such as your IP address , MyFolio.com cookie information , and the page ( s ) you visit .",
+        "span_posLabel": {
+            "0;0": "target_direct",
+            "8;9": "data_compulsory",
+            "11;13": "data_compulsory",
+            "17;22": "data_compulsory"
+        }
+    },
+    {
+        "context": "Google , one of our third-party advertisers , may add a cookie to determine targeted advertisements based on your preferences and your visit to our site and other sites on the internet .",
+        "span_posLabel": {
+            "0;0": "target_in_direct",
+            "11;11": "medium",
+            "13;19": "reason",
+            "21;25": "reason"
+        }
+    },
+    {
+        "context": "Submission information \u2013 When you submit information through the Services , we may store that information and also collect and store metadata about that information .",
+        "span_posLabel": {
+            "5;9": "medium",
+            "11;11": "target_direct",
+            "15;15": "data",
+            "21;24": "data"
+        }
+    },
+    {
+        "context": "We will use personal information as supplied by you to process and deliver your order .",
+        "span_posLabel": {
+            "0;0": "target_direct",
+            "3;4": "data",
+            "8;8": "source_direct",
+            "10;14": "reason"
+        }
+    },
+    {
+        "context": "We will disclose personal information such as your delivery address to a delivery service provider ( ie a courier ) as selected by you when you place your order .",
+        "span_posLabel": {
+            "0;0": "target_direct",
+            "3;4": "data",
+            "7;7": "source_direct",
+            "8;9": "data",
+            "12;14": "target_in_direct",
+            "24;28": "medium"
+        }
+    },
+    {
+        "context": "We also retain your order details in a secure offline system that is NOT connected to the internet .",
+        "span_posLabel": {
+            "0;0": "target_direct",
+            "3;3": "source_direct",
+            "4;5": "data_compulsory"
+        }
+    },
+    {
+        "context": "This is so we have a record of your order should you wish to return or exchange an item at a later date .",
+        "span_posLabel": {
+            "3;3": "target_direct",
+            "8;8": "source_direct",
+            "9;14": "source_direct",
+            "16;22": "source_direct"
+        }
+    },
+    {
+        "context": "If you provide Personal Data in order to obtain access to or use of the Services or any functionality thereof , we will use your Personal Data to provide you with access to or use of the Services or functionality and to monitor your use of such Services or functionality .",
+        "span_posLabel": {
+            "21;21": "target_direct",
+            "24;24": "source_direct",
+            "25;26": "data",
+            "28;39": "reason",
+            "42;49": "reason"
+        }
+    },
+    {
+        "context": "As a result of your visit to our site , ad server companies may collect information such as your domain type , your IP address and clickstream information",
+        "span_posLabel": {
+            "4;8": "medium",
+            "10;11": "target_in_direct",
+            "15;15": "data",
+            "19;20": "data_compulsory",
+            "23;24": "data_compulsory"
+        }
+    },
+    {
+        "context": "We use the information you provide about yourself only for our use .",
+        "span_posLabel": {
+            "0;0": "target_direct",
+            "3;3": "data",
+            "4;4": "source_direct",
+            "8;11": "reason"
+        }
+    },
+    {
+        "context": "If you choose to register , iRazoo asks for your contact information ( e.g .",
+        "span_posLabel": {
+            "2;4": "target_direct",
+            "6;6": "target_direct",
+            "9;9": "source_direct",
+            "10;11": "data_compulsory"
+        }
+    },
+    {
+        "context": "name , address , city , state ) .",
+        "span_posLabel": {
+            "0;0": "data_compulsory",
+            "2;2": "data_compulsory",
+            "4;4": "data_compulsory",
+            "6;6": "data_compulsory"
+        }
+    },
+    {
+        "context": "While using our site , iRazoo automatically tracks certain information about you .",
+        "span_posLabel": {
+            "5;5": "target_direct",
+            "9;9": "data",
+            "11;11": "source_direct"
+        }
+    },
+    {
+        "context": "This information includes the URL you just came from ( whether this URL is from our site or not ) , which URL you next go to ( whether this URL is from our site or not ) , what browser you are using , and your IP address .",
+        "span_posLabel": {
+            "1;1": "data",
+            "4;8": "data_compulsory",
+            "21;26": "data_compulsory",
+            "39;43": "data_compulsory",
+            "47;48": "data_compulsory"
+        }
+    },
+    {
+        "context": "This information is collected to analyze trends , track user movement and use patterns , track the total number of unique Users to the site , gather broad demographic information otherwise required to receive goods and services , information to be received from User surveys conducted from time to time , and information required to enter into and administer the site .",
+        "span_posLabel": {
+            "1;1": "data",
+            "5;6": "reason",
+            "8;13": "reason",
+            "15;24": "reason",
+            "26;36": "reason",
+            "38;49": "reason",
+            "52;60": "reason"
+        }
+    },
+    {
+        "context": "iRazoo may require additional information from its Users such as : information provided to receive goods and services , information received from user surveys , and information collected from entries into contests or promotions that are sponsored from time to time by iRazoo or its Merchant Partners .",
+        "span_posLabel": {
+            "0;0": "target_direct",
+            "4;4": "data",
+            "7;7": "source_direct",
+            "11;11": "data_optional",
+            "14;17": "reason",
+            "19;19": "data_optional",
+            "20;23": "medium",
+            "26;26": "data_optional",
+            "27;46": "reason"
+        }
+    },
+    {
+        "context": "We use cookies to help us remember and process the items in your shopping cart and understand and save your preferences for future visits .",
+        "span_posLabel": {
+            "2;2": "medium",
+            "6;14": "reason",
+            "16;23": "reason"
+        }
+    }
+]

@@ -1,0 +1,1 @@
+python3 finetune.py --. "facebook/bart-large-xsum" --toknizer_name "facebook/bart-large-xsum" --input_text_path "/home/rohan19095/BTP/PPO/summarizationDataset/" --batch_size 2 --num_train_epochs 15 --save "bartFinetune2"
